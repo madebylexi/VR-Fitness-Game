@@ -6,7 +6,8 @@
 <!-- HERO IMAGE -->
 <!-- Add a banner/hero screenshot of the gym scene -->
 <p align="center">
-  <img src="docs/images/hero.png" width="900" alt="VR gym overview — add your screenshot">
+<img width="770" height="241" alt="Screenshot 2025-10-01 at 9 45 17 AM" src="https://github.com/user-attachments/assets/1f468386-be36-43de-a02a-1a93056d0225" />
+
 </p>
 
 ## Overview
