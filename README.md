@@ -74,14 +74,7 @@ Unity project using **XR Interaction Toolkit** + **OpenXR**. An XR Origin handle
 - **World-Space UI** (exercise & difficulty menus)  
 - **Managers** (Animation, Menu, Session/Log)
 
-## Scene & UI
-World-space canvas between robots; large tap targets; session HUD shows current set/rep and rest timers.
 
-<!-- FIGURE: Scene overview -->
-<p align="center">
-  <img width="900" alt="Scene overview — layout, lighting, mirror walls, mats" src="https://github.com/user-attachments/assets/031517ad-745a-4bdd-a983-645f27a5c966" />
-  <br><em>Fig. 7 — Scene overview: layout, lighting, mirror walls, mats.</em>
-</p>
 
 <!-- FIGURE: Session log -->
 <p align="center">
